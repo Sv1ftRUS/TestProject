@@ -3,4 +3,9 @@
 789
 test2
 test3
+<<<<<<< HEAD
 test5 main branch
+=======
+test4 new branch
+test6 new branch
+>>>>>>> ветка1
